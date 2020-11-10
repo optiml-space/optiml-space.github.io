@@ -1,12 +1,12 @@
 ---
-title: "Post: Quote"
+title: 'Post: Quote'
 categories:
-  - Blog
+- Blog
 tags:
-  - Post Formats
-  - quote
----
+- Post Formats
+- quote
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+---
+> # “Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without loosing something.”
+>
+> <cite><a href="[https://quotefancy.com/quote/1425630/Richard-Stallman-Sharing-knowledge-is-the-most-fundamental-act-of-friendship-Because-it](https://quotefancy.com/quote/1425630/Richard-Stallman-Sharing-knowledge-is-the-most-fundamental-act-of-friendship-Because-it "https://quotefancy.com/quote/1425630/Richard-Stallman-Sharing-knowledge-is-the-most-fundamental-act-of-friendship-Because-it")">Richard Stallman</a></cite>
