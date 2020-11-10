@@ -1,12 +1,12 @@
 ---
-title: "Optiml"
+title: "High performance PostGIS and Redis GEO"
 layout : splash
 header:
   overlay_image: /assets/images/nasa-6-jTZysYY_U-unsplash.jpg
   tagline : "Accelerated PostGIS instances"
   actions : 
     - label: "Learn more" {: .text-right}
-      url: "/"
+    - url: "/"
 
 permalink : /home/
 author_profile: false  
