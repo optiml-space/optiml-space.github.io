@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/nasa-6-jTZysYY_U-unsplash.jpg
   tagline : "Accelerated PostGIS instances"
   actions : 
-    - label: "Learn more"
+    - label: "Learn more" {: .text-right}
       url: "/"
 
 permalink : /home/
